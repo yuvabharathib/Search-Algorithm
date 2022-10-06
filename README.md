@@ -109,15 +109,14 @@ if result>=0:
 else:
     print("Element not found")
 
-
-
-
 ```
-##Output
+### Output
 1 .Use a linear search method to match the item in a list.
 ![1](https://user-images.githubusercontent.com/113497406/192079627-6ebee81b-ed19-4f03-adb1-6fc65d07e2f5.png)
+
 2.Program to find the element in a list using Binary Search(Iterative Method).
 ![2](https://user-images.githubusercontent.com/113497406/192079669-feef582f-7f22-459a-a382-ab86360ae148.png)
+
 3.Program to find the element in a list using Binary Search (recursive Method).
 ![3](https://user-images.githubusercontent.com/113497406/192079740-7acbbbf9-d21b-423b-95d0-7d1a87ece3b6.png)
 
